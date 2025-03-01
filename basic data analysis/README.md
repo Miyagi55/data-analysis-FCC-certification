@@ -29,3 +29,7 @@ The returned dictionary should follow this format:
   'min': [axis1, axis2, flattened],
   'sum': [axis1, axis2, flattened]
 }
+```
+
+---
+**mean_var_std.py** file has the answers of this exercise written by me. 
