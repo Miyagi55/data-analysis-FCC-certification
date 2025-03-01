@@ -32,4 +32,4 @@ The returned dictionary should follow this format:
 ```
 
 ---
-mean_var_std.py file has the answers of this exercise written me. 
+**mean_var_std.py** file has the answers of this exercise written by me. 
