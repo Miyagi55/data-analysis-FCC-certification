@@ -48,6 +48,7 @@ Make sure you are in the correct project folder before running the script.
 ## 🏆 Certification Goal
 
 This repository is part of my journey to earn the **Data Analysis with Python Certification** from freeCodeCamp. These projects help solidify skills in:
+
 ✅ Data Wrangling with Pandas\
 ✅ Data Visualization with Matplotlib & Seaborn\
 ✅ Statistical Analysis & Insights\
