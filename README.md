@@ -6,11 +6,12 @@ Welcome to my **Data Analysis with Python** repository! 🚀 This repository con
 
 Each project is organized into a separate folder within this repository:
 
-1. **[Demographic Data Analysis](https://github.com/Miyagi55/data-analysis-FCC-certification/tree/master/usa-demographic-data-analyzer)** 📈 - Analyzing census data to uncover insights about demographics and income distribution.
+1. **[Mean-Variance Standard Deviation Calculator](https://github.com/Miyagi55/data-analysis-FCC-certification/tree/master/basic-data-analysis)** 🔢 - Statistical computations on numerical datasets.
 2. **[Medical Data Visualizer](https://github.com/Miyagi55/data-analysis-FCC-certification/tree/master/medical-data-visualizer)** 🏥 - Exploring relationships between health markers and cardiovascular disease.
-3. **[Page View Time Series Visualizer]( )** 📊 - Visualizing trends in website traffic data over time.
-4. **[Sea Level Predictor]( )** 🌊 - Predicting future sea levels using historical data.
-5. **[Mean-Variance Standard Deviation Calculator]( )** 🔢 - Statistical computations on numerical datasets.
+3. **[Demographic Data Analysis](https://github.com/Miyagi55/data-analysis-FCC-certification/tree/master/usa-demographic-data-analyzer)** 📈 - Analyzing census data to uncover insights about demographics and income distribution.
+4. **[Page View Time Series Visualizer](https://github.com/Miyagi55/data-analysis-FCC-certification/tree/master/time-series-visualizer)** 📊 - Visualizing trends in website traffic data over time.
+5. **[Sea Level Predictor](https://github.com/Miyagi55/data-analysis-FCC-certification/tree/master/sea/level/predictor)** 🌊 - Predicting future sea levels using historical data.
+
 
 Each folder contains the necessary scripts, datasets, and a **README** with project details and instructions.
 
