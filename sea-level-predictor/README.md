@@ -48,6 +48,9 @@ The final visualization will:
 - Predict future sea level changes using **two different regression models**.
 - Provide insight into the potential impact of climate change on sea levels.
 
+![Linear Regression](sea_level_plot.png)
+
+
 ## 🌍 Data Source
 This dataset is sourced from the **US Environmental Protection Agency (EPA)**, compiled from **CSIRO (2015) and NOAA (2015)** records.
 
